@@ -1,0 +1,1 @@
+# Placeholder for MINIMUM_VIABLE_PRODUCT_DEVELOPMENT.md
